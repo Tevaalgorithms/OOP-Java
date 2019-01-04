@@ -1,0 +1,35 @@
+1. Class: It's a template, blue print that defines what an object's data fields, and methods will be. 
+   a. Class uses variables to define data fields, and actionas are defind in methods.
+   b. Constructos: These are invoked when you create an instance of a class. Usally these are used to intialize data fields and objects.
+   
+2. Object: It's an instance of a class.
+   You can have many instances for a class. 
+   Objects are made up of attributes and methods. 
+   Attributes are the characteristics that define an object;
+   the values contained in attributes differentiate objects of the same class from one another. 
+   To understand this better let’s take the example of Mobile as an object.
+   Mobile has characteristics like a model, manufacturer, cost, operating system etc. 
+   So if we create “Samsung” mobile object and “IPhone” mobile object we can distinguish them from characteristics. 
+   The values of the attributes of an object are also referred to as the object’s state.
+
+3. There are three main features of OOPS.
+
+    A) Encapsulation: DATA HIDING. Hiding data (variables) and methods within an Object.
+
+    B) Inheritance
+
+    C) Polymorphism: Polymorphism is the ability of an object to take on many forms. 
+       The most common use of polymorphism in OOP occurs when a parent class reference is used to refer to a child class object.
+   
+ 4. Encapsulation: DATA HIDING
+ 
+    a. To achieve encapsulation in Java −
+
+        Declare the variables of a class as private.
+
+        Provide public setter and getter methods to modify and view the variables values.
+        
+        
+        
+        
+   
